@@ -15,7 +15,7 @@
 -----------------------------------------------------
 
 <a name="v001"></a>
-[![P]][M] **Версия 0.0.1 (предварительная)**
+[![S]][M] **Версия 0.0.1 (предварительная)**
 --------------------------------------------
 [2021y-06m-13d][02:00:00] время коммита в мастере  
 
@@ -26,11 +26,11 @@
 
 1) add: `project.root`  
 2) upd: `deploy`  
-3) upd: `build_info.hpp` 001 PRE  
-4) upd: `build_info.ver` 001 PRE  
+3) upd: `build_info.hpp` 001  
+4) upd: `build_info.ver` 001  
 5) add: `test`:  
-     - add: `test-classic.cpp` 001 PRE  
-     - add: `test-modern.cpp`  001 PRE  
+     - add: `test-classic.cpp` 001  
+     - add: `test-modern.cpp`  001  
 
 [#3-frame]: tasks/2021y-06m-13d-0003-frame.md
 

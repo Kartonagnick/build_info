@@ -1,3 +1,4 @@
+// [2021y-06m-13d][02:00:00] Idrisov Denis R. 001
 // [2021y-06m-13d][00:05:00] Idrisov Denis R. 001 PRE
 #pragma once
 #ifndef dTEST_DEVELOP_USED_ 
