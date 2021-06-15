@@ -14,6 +14,40 @@
 
 -----------------------------------------------------
 
+<a name="v002"></a>
+[![P]][M] **Версия 0.0.2 (предварительная)**
+--------------------------------------------
+[2021y-06m-17d][21:00:00] время коммита в мастере  
+
+|      дата     |  время   |   ветка   | статус |  
+|:-------------:|:--------:|:---------:|:------:|  
+| 2021y-06m-17d | 20:00:00 | [#5-impl] | DONE   |  
+| 2021y-06m-15d | 00:05:00 | [#5-impl] | BEGIN  |  
+
+1) upd: `README.md`  
+
+2) add: `build_info`  
+     - upd: `build_info.hpp`      002 PRE  
+     - upd: `build_info.ver`      002 PRE  
+     - add: `dmessage.hpp`        001 PRE  
+
+3) add: `build_info/private`  
+     - add: `compilers.hpp`       001 PRE  
+     - add: `cplusplus.hpp`       001 PRE  
+     - add: `select.hpp`          001 PRE  
+     - add: `show.hpp`            001 PRE  
+
+4) add: `build_info/compilers`  
+     - add: `clang.hpp`           001 PRE  
+     - add: `gcc.hpp`             001 PRE  
+     - add: `mingw.hpp`           001 PRE  
+     - add: `msvc.hpp`            001 PRE  
+     - add: `zfinal.hpp`          001 PRE  
+
+[#5-impl]: tasks/2021y-06m-15d-0005-impl.md
+
+-----------------------------------------------------
+
 <a name="v001"></a>
 [![S]][M] **Версия 0.0.1 (предварительная)**
 --------------------------------------------

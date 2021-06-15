@@ -1,14 +1,15 @@
+// [2021y-06m-15d][20:05:00] Idrisov Denis R. 002 PRE
 // [2021y-06m-13d][02:00:00] Idrisov Denis R. 001
 // [2021y-06m-13d][00:05:00] Idrisov Denis R. 001 PRE
 //==============================================================================
 //==============================================================================
 #pragma once
 #ifndef dTOOLS_BI_VERSION_USED_ 
-#define dTOOLS_BI_VERSION_USED_ 001
+#define dTOOLS_BI_VERSION_USED_ 002 PRE
 
 #define dBUILD_INFO_MAJOR 0
 #define dBUILD_INFO_MINOR 0
-#define dBUILD_INFO_PATCH 1
+#define dBUILD_INFO_PATCH 2
 
 //==============================================================================
 //==============================================================================
