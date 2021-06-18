@@ -17,27 +17,45 @@
 <a name="v002"></a>
 [![P]][M] **Версия 0.0.2 (предварительная)**
 --------------------------------------------
-[2021y-06m-17d][21:00:00] время коммита в мастере  
+[2021y-06m-18d][22:50:00] время коммита в мастере  
+
+|      дата     |  время   |   ветка    | статус |  
+|:-------------:|:--------:|:----------:|:------:|  
+| 2021y-06m-18d | 22:30:00 | [#7-table] | DONE   |  
+| 2021y-06m-18d | 03:05:00 | [#7-table] | BEGIN  |  
+
+1) upd: `README.md`  
+
+2) Документация API:  
+     - add: `docs/table.md`              002 PRE  
+       - add: `docs/code/build_info.md`    002 PRE  
+       - add: `docs/code/dmessage.md`      001 PRE  
+
+3) Документация деталей: 
+     - add: `docs/private/compilers.md`    001 PRE  
+     - add: `docs/private/cplusplus.md`    001 PRE  
+     - add: `docs/private/select.md`       001 PRE  
+     - add: `docs/private/show.md`         001 PRE  
+
+[#7-table]: tasks/2021y-06m-18d-0007-table.md
 
 |      дата     |  время   |   ветка   | статус |  
 |:-------------:|:--------:|:---------:|:------:|  
 | 2021y-06m-17d | 20:00:00 | [#5-impl] | DONE   |  
 | 2021y-06m-15d | 00:05:00 | [#5-impl] | BEGIN  |  
 
-1) upd: `README.md`  
-
-2) add: `build_info`  
+1) add: `build_info`  
      - upd: `build_info.hpp`      002 PRE  
      - upd: `build_info.ver`      002 PRE  
      - add: `dmessage.hpp`        001 PRE  
 
-3) add: `build_info/private`  
+2) add: `build_info/private`  
      - add: `compilers.hpp`       001 PRE  
      - add: `cplusplus.hpp`       001 PRE  
      - add: `select.hpp`          001 PRE  
      - add: `show.hpp`            001 PRE  
 
-4) add: `build_info/compilers`  
+3) add: `build_info/compilers`  
      - add: `clang.hpp`           001 PRE  
      - add: `gcc.hpp`             001 PRE  
      - add: `mingw.hpp`           001 PRE  
