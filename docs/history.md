@@ -15,7 +15,7 @@
 -----------------------------------------------------
 
 <a name="v003"></a>
-[![P]][M] **Версия 0.0.3 (предварительная)**
+[![S]][M] **Версия 0.0.3 (предварительная)**
 --------------------------------------------
 [2021y-07m-02d][14:00:00] время коммита в мастере  
 
@@ -34,10 +34,10 @@
      - add: `example/shared`  
 
 3) upd: версия модуля:  
-     - upd: `build_info.hpp`     003 PRE  
-     - upd: `build_info.ver`     003 PRE  
-     - upd: `docs/build_info.md` 003 PRE  
-     - upd: `docs/table.md`      003 PRE  
+     - upd: `build_info.hpp`     003  
+     - upd: `build_info.ver`     003  
+     - upd: `docs/build_info.md` 003  
+     - upd: `docs/table.md`      003  
 
 [#11-example]: tasks/2021y-07m-02d-0011-example.md
 
