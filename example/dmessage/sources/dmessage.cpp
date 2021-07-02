@@ -15,7 +15,7 @@
 #endif
 
 #ifdef __cplusplus
-    dCOMPILER_MESSAGE("__cplusplus: " dSSTRINGIZE(__cplusplus)) 
+    dCOMPILER_MESSAGE("[dmessage] __cplusplus: " dSSTRINGIZE(__cplusplus)) 
 #endif
 
 int main(){}

@@ -1,5 +1,6 @@
 # WorkSpace project.
 # Module of tools: build_info
+# [2021y-07m-02d] [10:35:00] Idrisov Denis R.
 # [2021y-06m-13d] [00:05:00] Idrisov Denis R.
 ################################################################################
 ################################################################################
@@ -32,8 +33,9 @@ make_target(
 #        "dHIDE_GCC_MESSAGE=1"
 )
 
-# make_target(PATH_TO_SOURCES "example/shared")
-# make_target(PATH_TO_SOURCES "example/static")
+make_target(PATH_TO_SOURCES "example/dmessage")
+make_target(PATH_TO_SOURCES "example/shared")
+make_target(PATH_TO_SOURCES "example/static")
 
 ################################################################################
 ################################################################################
